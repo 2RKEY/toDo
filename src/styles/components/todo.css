@@ -16,7 +16,6 @@
     text-align: center;
     font-size: 24px;
     line-height: 1.2;
-    letter-spacing: -0.2em;
 }
 
 .todo__form {
@@ -49,6 +48,7 @@
       opacity: 0;
       visibility: hidden;
     }
+}
 
 .todo__list,
 .todo__empty-message {

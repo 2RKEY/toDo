@@ -95,7 +95,6 @@ class Todo {
             </label>
             <button 
               class="todo-item__delete-button"
-              type="button"
               aria-label="Delete"
               title="${title}"
               data-js-todo-item-delete-button
